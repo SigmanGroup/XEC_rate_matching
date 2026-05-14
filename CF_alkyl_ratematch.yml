@@ -18,4 +18,5 @@ dependencies:
   - ipywidgets
   - jupyter
   - bokeh
+  - pango
 
