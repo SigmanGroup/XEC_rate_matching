@@ -13,8 +13,8 @@ calculated descriptor libraries, and correction factor information.
 Two environment files are provided:
 - `CF_alkyl_rf.yml` — for correction factor calculations, random forest alkyl 
   rate modeling
-- 'rate_yield_analysis.yml' — for rate/yield analysis
 - `aryl_rf_env.yml` — for random forest aryl rate modeling
+- `rate_yield_analysis.yml` — for rate/yield analysis
 
   To create and activate an environment:
 ```bash
