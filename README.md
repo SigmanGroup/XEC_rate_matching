@@ -4,18 +4,17 @@ This repository contains notebooks that were used in this work, including correc
 
 ## Installation
 
-.yml files for correction factor, alkyl rate random forest model, and correlation of rate and yields are attached as 'CF_alkylrate_ratematch.yml' For aryl rate random forest model,  ..............
+.yml files are attached. 'CF_alkylrate_ratematch.yml' for correction factor, random forest alkyl rate model, and analysis of rates and yields. 'aryl_rf_env.yml' for random forest aryl rate model. 
 
 ## Usage
 
-1. Correction factor:
+1. Correction factor: 
 2. alkyl rate random forest model:
 3. aryl rate random forest model:
-4. visualize rate and yield correlation:
+4. analysis of rate and yield:
    
 
 
-In the "markdown" sections of your jupyter notebook, add a bit more detail about what is going on in each cell.
 
 
 
