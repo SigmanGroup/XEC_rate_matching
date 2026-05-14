@@ -34,10 +34,10 @@ conda activate CF_alkyl_ratematch
 
 | Excel File | Description |
 |--------|-------------|
-| `molecular_descriptors.xlsx` |  |
-| `correction_factor_info_aryl_alkyl.xlsx` |  |
-| `modeling_input_features.xlsx` |  |
-| `umap.xlsx` |  |
+| `molecular_descriptors.xlsx` | Calculated / predicted descriptors for aryl and alkyl virtual libraries |
+| `correction_factor_info_aryl_alkyl.xlsx` | Correction factor training sets and informations |
+| `modeling_input_features.xlsx` | Input features used to construct models |
+| `umap.xlsx` | UMAP coordinates and features used to make UMAPs |
 
 
 
