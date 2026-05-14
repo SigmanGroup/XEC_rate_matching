@@ -17,4 +17,5 @@ dependencies:
   - rdkit
   - ipywidgets
   - jupyter
+  - bokeh
 
