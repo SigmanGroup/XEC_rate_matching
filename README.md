@@ -8,6 +8,8 @@ This repository contains notebooks used in this work, including:
 The attached Excel sheets include input features for modeling, construction of UMAP, 
 calculated descriptor libraries, and correction factor information.
 
+DFT optimized xyz coordinates are available in xyz_coordinates.
+
 ## Installation
 
 Two environment files are provided:
@@ -30,7 +32,12 @@ conda activate CF_alkyl_ratematch
 | `rate_yield_analysis/` | Rate-yield correlation analysis and interactive plots which show structures |
 | `xyz_coordinates/` | .xyz files for DFT optimized structures |
 
-
+| Excel File | Description |
+|--------|-------------|
+| `molecular_descriptors.xlsx` |  |
+| `correction_factor_info_aryl_alkyl.xlsx` |  |
+| `modeling_input_features.xlsx` |  |
+| `umap.xlsx` |  |
 
 
 
