@@ -11,8 +11,9 @@ calculated descriptor libraries, and correction factor information.
 ## Installation
 
 Two environment files are provided:
-- `CF_alkyl_ratematch.yml` — for correction factor calculations, random forest alkyl 
-  rate modeling, and rate/yield analysis
+- `CF_alkyl_rf.yml` — for correction factor calculations, random forest alkyl 
+  rate modeling
+- 'rate_yield_analysis.yml' — for rate/yield analysis
 - `aryl_rf_env.yml` — for random forest aryl rate modeling
 
   To create and activate an environment:
@@ -27,7 +28,7 @@ conda activate CF_alkyl_ratematch
 | `RF_aryl_rates/` | Random forest model for aryl halide rate prediction |
 | `correction_factor/` | Descriptor library correction factors |
 | `rate_yield_analysis/` | Rate-yield correlation analysis and interactive plots which show structures |
-
+| `xyz_coordinates/` | .xyz files for DFT optimized structures |
 
 
 
