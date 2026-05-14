@@ -1,4 +1,4 @@
-name: rf_env
+name: CF_alkyl_ratematch
 channels:
   - conda-forge
   - defaults
@@ -15,4 +15,6 @@ dependencies:
   - seaborn
   - shap
   - rdkit
+  - ipywidgets
+  - jupyter
 
