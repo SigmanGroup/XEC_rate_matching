@@ -15,4 +15,6 @@ dependencies:
   - seaborn
   - shap
   - rdkit
+  - ipywidgets
+  - jupyter
 
