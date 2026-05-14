@@ -1,4 +1,4 @@
-name: CF_alkyl_ratematch
+name: CF_alkyl
 channels:
   - conda-forge
   - defaults
@@ -17,6 +17,5 @@ dependencies:
   - rdkit
   - ipywidgets
   - jupyter
-  - bokeh
-  - pango
+  
 
