@@ -1,0 +1,19 @@
+name: rate_yield_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - openpyxl
+  - rdkit
+  - bokeh
+  - jupyter
+  - ipykernel
+  - pip
+ 
+
+
+
