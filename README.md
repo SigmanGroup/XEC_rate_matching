@@ -20,8 +20,8 @@ Two environment files are provided:
 
   To create and activate an environment:
 ```bash
-conda env create -f CF_alkyl_ratematch.yml
-conda activate CF_alkyl_ratematch
+conda env create -f CF_alkyl_rf.yml
+conda activate CF_alkyl_rf
 ```
 ## Contents
 | Folder | Description |
@@ -39,5 +39,9 @@ conda activate CF_alkyl_ratematch
 | `modeling_input_features.xlsx` | Input features used to construct models |
 | `umap.xlsx` | UMAP coordinates and features used to make UMAPs |
 
+| File | Description |
+|--------|-------------|
+| `crude_1HNMR_NMRYields.pdf` | Crude 1H NMR spectra for NMR yield data |
+| `interactive_plot.html` | html file for interactive plots of UMAP/predicted rates, rate-yield bubble plot, and classification models |
 
 
