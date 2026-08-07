@@ -3,9 +3,9 @@
 This repository contains notebooks used in this work, including:
 - Correction factors to predict aryl and alkyl chloride descriptor libraries
 - Random forest regression models to predict relative rate constants for aryl and alkyl halides
-- Visualizations of correlations between rate and yield
+- Interactive visualizations of correlations between rate and yield (interactive website for you to explore: https://sigmangroup.github.io/XEC_rate_matching/rate_yield_analysis/interactive_plots.html)
 
-The attached Excel sheets include input features for modeling, construction of UMAP, 
+The attached Excel sheets (in raw_data_excel_files) include input features for modeling, construction of UMAP, 
 calculated descriptor libraries, and correction factor information.
 
 DFT optimized xyz coordinates are available in xyz_coordinates.
@@ -31,8 +31,9 @@ conda activate CF_alkyl_rf
 | `correction_factor/` | Descriptor library correction factors |
 | `rate_yield_analysis/` | Rate-yield correlation analysis and interactive plots which show structures |
 | `xyz_coordinates/` | .xyz files for DFT optimized structures |
+| `raw_data_excel_files/` | Raw Excel data: calculated descriptors, modeling input features, umap coordinates, and correction factor training sets |
 
-| Excel File | Description |
+| Excel File ('raw_data_excel_files/') | Description |
 |--------|-------------|
 | `molecular_descriptors.xlsx` | Calculated / predicted descriptors for aryl and alkyl virtual libraries |
 | `correction_factor_info_aryl_alkyl.xlsx` | Correction factor training sets and informations |
