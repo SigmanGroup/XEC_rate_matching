@@ -13,15 +13,15 @@ DFT optimized xyz coordinates are available in xyz_coordinates.
 ## Installation
 
 Two environment files are provided:
-- `CF_alkyl_rf.yml` — for correction factor calculations, random forest alkyl 
+- `CF_alkyl.yml` — for correction factor calculations, random forest alkyl 
   rate modeling
 - `aryl_rf_env.yml` — for random forest aryl rate modeling
 - `rate_yield_analysis.yml` — for rate/yield analysis
 
   To create and activate an environment:
 ```bash
-conda env create -f CF_alkyl_rf.yml
-conda activate CF_alkyl_rf
+conda env create -f CF_alkyl.yml
+conda activate CF_alkyl
 ```
 ## Contents
 | Folder | Description |
