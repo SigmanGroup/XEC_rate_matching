@@ -33,7 +33,7 @@ conda activate CF_alkyl_rf
 | `xyz_coordinates/` | .xyz files for DFT optimized structures |
 | `raw_data_excel_files/` | Raw Excel data: calculated descriptors, modeling input features, umap coordinates, and correction factor training sets |
 
-| Excel File ('raw_data_excel_files/') | Description |
+| Excel File (`raw_data_excel_files/`) | Description |
 |--------|-------------|
 | `molecular_descriptors.xlsx` | Calculated / predicted descriptors for aryl and alkyl virtual libraries |
 | `correction_factor_info_aryl_alkyl.xlsx` | Correction factor training sets and informations |
