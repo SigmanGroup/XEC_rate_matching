@@ -1,4 +1,5 @@
 # Using Data Science Tools to Explore Rate Matching in a Nickel-Catalyzed Cross-Electrophile Coupling of Alkyl and Aryl Halides (Cl, Br) with a Tridentate Monoanionic Ligand
+https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10810/5434411/Using-Data-Science-Tools-to-Explore-Rate-Matching
 
 This repository contains notebooks used in this work, including:
 - Correction factors to predict aryl and alkyl chloride descriptor libraries
