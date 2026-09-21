@@ -1,5 +1,5 @@
 # Using Data Science Tools to Explore Rate Matching in a Nickel-Catalyzed Cross-Electrophile Coupling of Alkyl and Aryl Halides (Cl, Br) with a Tridentate Monoanionic Ligand
-https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10810/5434411/Using-Data-Science-Tools-to-Explore-Rate-Matching
+Paper: https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c10810/5434411/Using-Data-Science-Tools-to-Explore-Rate-Matching
 
 This repository contains notebooks used in this work, including:
 - Correction factors to predict aryl and alkyl chloride descriptor libraries
@@ -47,4 +47,6 @@ conda activate CF_alkyl
 | `crude_1HNMR_NMRYields.pdf` | Crude 1H NMR spectra for NMR yield data |
 | `interactive_plot.html` | html file for interactive plots of UMAP/predicted rates, rate-yield bubble plot, and classification models |
 
-## Please open an issue or start a discussion if you find anything. 
+
+Please open an issue if you find any bugs or issues. Contact author: Haruka Takenaka (haruka.takenaka@utah.edu)
+
